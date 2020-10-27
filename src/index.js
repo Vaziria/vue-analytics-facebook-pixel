@@ -119,7 +119,7 @@ const install = (Vue, options = {}) => {
         return
       }
 
-      Vue.analytics.fbq.event('PageView')
+      // Vue.analytics.fbq.event('PageView')
     })
   }
 }

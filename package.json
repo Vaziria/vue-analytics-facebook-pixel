@@ -1,7 +1,7 @@
 {
-  "name": "vue-analytics-facebook-pixel",
+  "name": "vue-fb-pixel",
   "version": "1.0.1",
-  "description": "A small wrapper around Facebook Pixel API",
+  "description": "kebutuhan sendiri",
   "author": "sobolevn <mail@sobolevn.me>",
   "private": false,
   "scripts": {
